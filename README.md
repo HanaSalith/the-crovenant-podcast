@@ -19,7 +19,7 @@ Neste episódio de estreia, apresentado por **Salith**, você vai descobrir:
 - Como transformar símbolos da cultura pop (como o Bat-Sinal ou o logo da Umbrella Corp) em ferramentas mágicas
 - Um passeio rápido, leve e nerd pelo lado oculto do entretenimento
 
-> 🔗 Áudio disponível no arquivo: `episode-1.mp3`
+🎧 [Clique aqui para ouvir o episódio](./episode-1.mp3)
 
 ---
 
@@ -36,7 +36,7 @@ Neste episódio de estreia, apresentado por **Salith**, você vai descobrir:
 
 ## 🚀 Como ouvir
 
-1. Baixe o arquivo `episode-1.mp3` diretamente deste repositório.
+1. [Baixe o arquivo](./episode-1.mp3) diretamente deste repositório.
 
 ---
 
@@ -44,7 +44,7 @@ Neste episódio de estreia, apresentado por **Salith**, você vai descobrir:
 
 - **Roteiro e concepção**: Salith (host fictícia/persona narrativa)
 - **Criação assistida por IA**: ChatGPT (OpenAI)
-- **Desafio proposto por**: [DIO]
+- **Desafio proposto por**: DIO
 
 ---
 
