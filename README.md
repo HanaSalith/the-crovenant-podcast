@@ -1,6 +1,6 @@
 # 🎙️ The C(r)ovenant – Rituais secretos do multiverso nerd
 
-![Capa do podcast](./cover.png)
+[Capa do podcast](./cover.png)
 
 > Um podcast curto e estiloso que explora os rituais ocultos da cultura nerd sob a ótica do pop magick contemporâneo.
 
